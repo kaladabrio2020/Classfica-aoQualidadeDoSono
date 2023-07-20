@@ -1,6 +1,6 @@
 <img style="height:9cm;width:1000px" src="https://images.pexels.com/photos/6951522/pexels-photo-6951522.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" >
 
-# Classficação disturbios do sono
+# Classificação disturbios do sono
 ---------
 Dados disponibilizado pelo [kaggle](http://www.kaggle.com)
 
