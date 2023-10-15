@@ -17,3 +17,5 @@ Dados disponibilizado pelo [kaggle](http://www.kaggle.com)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ## [Bibliotecas](lib/lib.txt)
+
+> Refazendo
